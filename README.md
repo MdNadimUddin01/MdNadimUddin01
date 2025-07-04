@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode Logo" style="margin-top: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode Logo" style="margin-bottom: 5px;">
   <h2 style="margin: 0;">LeetCode Info</h2>
 </div>
 </h2>
