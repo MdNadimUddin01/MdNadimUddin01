@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nadim-uddin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnadimuddin00786@gmail.com) 
 
 <h2>
-  <div style="display: flex; align-items: center; gap: 10px; width: 100vw;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode Logo">
-  <b style="margin: 0;">LeetCode Info</b>
-</div>
-
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode Logo">
+    <b style="margin: 0;">LeetCode Info</b>
+  </div>
 </h2>
 
 <!-- <hr style="width: 100vw; margin: 10px 0; border: 1px solid black;" /> -->
